@@ -28,7 +28,8 @@
     "no-trailing-spaces": 1,
     "object-curly-newline": 0,
     "prefer-const": 1,
-    "yoda": 1
+    "yoda": 1,
+    "quotes": ["error", "single"]
   },
   "env": {
     "node": true
